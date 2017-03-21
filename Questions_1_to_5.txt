@@ -11,4 +11,4 @@ Q 4. Where would you find a local repo?
 you have to download/clone it from the remote one
 
 Q 5. Is it normal to delete a branch after it is merged with the master?
-
+perhaps you may want to keep it, and keep track of changes that way
