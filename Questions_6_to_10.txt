@@ -11,4 +11,4 @@ Q 9. What should everyone do when making a commit?
 include a detailed message about the changes you are making
 
 Q 10. Which came first, Git or GitHub?
-git?
+git...hub?
