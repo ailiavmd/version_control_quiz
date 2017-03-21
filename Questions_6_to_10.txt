@@ -5,7 +5,7 @@ Q 7. Explain why pushing a branch to the remote repository before making a commi
 because the changes are not saved
 
 Q 8. What is Git's version of GitHub's Forking? 
-
+Cloning
 
 Q 9. What should everyone do when making a commit?
 
