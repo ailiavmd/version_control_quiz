@@ -5,7 +5,7 @@ Q 2. Name 2 other examples of Version Control Systems apart from Git.
 SVN, mercurial
 
 Q 3. What is a repo and explain the difference between a local and remote one? 
-
+A repo is the project that you're sharing. A local repo is the one that you downloaded to your computer, the remote repo is the one that's online and can be accessed by others.
 
 Q 4. Where would you find a local repo?
 
